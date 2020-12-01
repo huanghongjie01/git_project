@@ -1,4 +1,5 @@
 # git_project
+完成
 [branch "master"] 
 	remote = origin 
 	merge = refs/heads/master
